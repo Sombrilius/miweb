@@ -1,0 +1,71 @@
+body{
+margin:0;
+padding:0;
+height:100%;
+background-color:white;
+}
+#general{
+    background-size: 100%;
+}
+
+.container1{
+background-color:#191819;
+margin:0;
+padding:0;
+height:100vh;
+width: 20%;
+}
+
+#textiniciarsesion{
+    margin-top:40px;
+    margin-left:-10px;
+    color:white;
+    text-align: center;
+}
+
+img{
+    padding-left: 30px;;
+    padding-top: 40px;
+    width: 80%;
+}
+
+#inputnombre,#inputcontra{
+    background-color: #eee;
+    border: none;
+    text-align: center;
+    background-color:transparent;
+    margin-left: 12px;
+    margin-top:50px;
+    border-bottom: 3px solid white;
+    color:BLACK;}
+svg{
+    margin-left:80px;
+    color:white;
+}
+#botoninicar{
+    margin-top:40px;
+    padding: 20px;
+    margin-left:80px;
+    text-align: center;
+    width: 55%;;
+}
+
+p{
+    margin-top:40px;
+    margin-left:30px;
+    color:white;
+}
+
+p:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#container2{
+float:right;
+background-color:red;
+width: 80%;
+margin-top: -100vh;
+height: 100vh;;
+}
+
